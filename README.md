@@ -1,0 +1,1 @@
+# doccraft-ai-privacy
